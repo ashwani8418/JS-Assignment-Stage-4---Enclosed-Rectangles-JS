@@ -57,8 +57,8 @@ function contains(rec1, rec2){
 	return false;
 }
 
-const T = 10000;
-const W = 10000;
+const T = 0;
+const W = 0;
 
 function normalize(rec) {
 	return {
